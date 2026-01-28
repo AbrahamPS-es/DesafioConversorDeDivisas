@@ -1,5 +1,6 @@
 ### API key ###
 config.properties
+*.env
 
 ### IntelliJ IDEA ###
 out/
